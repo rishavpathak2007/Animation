@@ -1,0 +1,48 @@
+html, body {
+  height: 100%;
+  width: 100%;
+} 
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.nav p{
+  font-family: "algerian"; 
+  display:inline; 
+  float: right;
+  margin-right: 60px; 
+  font-size: 30px;
+} 
+.nav img{
+  border-radius: 50%;
+} 
+.nav{
+  margin-top: 15px;
+}
+
+.num{
+/*   margin-top: 60px;  */
+}  
+
+.nun { 
+  float: right; 
+  width: 50%; 
+  color: black; 
+  font-size: 20px;
+} 
+
+.column{
+  margin-top: 90px; 
+  margin-left: 200px;
+}
+
+.back {
+  background-image: url('https://media.istockphoto.com/vectors/happy-valentines-day-love-and-cricket-ball-vector-id1301475508');
+  background-repeat: no-repeat ; 
+  background-attachment: fixed;
+  background-size: 100% 100%; 
+  height:100%;
+  width: 100%;
+} 
